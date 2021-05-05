@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mealie! A Self Hosted Recipe Manager built with Vue, Python, and Docker. 
+- 🔭 I’m currently working on [Mealie](https://hay-kot.github.io/mealie/) A Self Hosted Recipe Manager built with Vue, Python, and Docker. 
 - 🌱 I’m currently learning  C#, Javascript, Python, and Vue
 
 [My Website](https://hay-kot.dev/)
