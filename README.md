@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning  C#, Javascript, Python, and Vue
 
 [My Website](https://hay-kot.dev/)
-[My Bold](https://hay-kot.dev/blog)
+
+[My Blog](https://hay-kot.dev/blog)
 
 
 <h2>💻 Some stats 💻</h2>
