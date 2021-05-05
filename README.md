@@ -7,6 +7,8 @@
 
 [My Blog](https://hay-kot.dev/blog)
 
+[My Wiki](https://wiki.hay-kot.dev/)
+
 
 <h2>💻 Some stats 💻</h2>
 
