@@ -14,7 +14,7 @@
 ## What I'm Up To
 - 💼 Looking for a entry level developer role in Python, Vue, frontend Javascript, or whatever I'd be a good fit for! 
 - 🔭 I’m currently working on [Mealie](https://hay-kot.github.io/mealie/) A Self Hosted Recipe Manager built with Vue, Python, and Docker. 
-- 🌱 I’m currently learning Go and C#, 
+- 🌱 I’m currently learning C#, 
 - ⭐️ Im comfortable with Javascript, Python, and Vue
 
 <br>
@@ -45,6 +45,22 @@
   - [Go The Complete Developers Guide](https://www.udemy.com/share/101XzyAEMbdF9URHoH/) 
 
 # Podcast Picks
+
+### [.NET ROCKS](https://www.dotnetrocks.com/)
+
+<img src="https://www.dotnetrocks.com/Content/img/basic/logo2.png" heigh="25%" width="25%"> </img>
+
+.NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness. 
+
+---
+
+### [Coder Radio](https://coder.show/)
+
+<img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/header.jpg?v=5" heigh="50%" width="50%"> </img>
+
+A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
+
+---
 
 ### [Talk Python To Me](https://talkpython.fm/)
 
