@@ -4,7 +4,7 @@
     <br />
     <a href="https://hay-kot.dev/">Portfolio / Website</a>
     ·
-    <a href="https://hay-kot.dev/blog">Blog </a>    
+    <a href="https://blog.hay-kot.dev">Blog </a>    
     ·
     <a href="https://wiki.hay-kot.dev/">
     Wiki 
@@ -12,7 +12,7 @@
 </p>
 
 ## What I'm Up To
-- 💼 Looking for a entry level developer role in Python, Vue, frontend Javascript, or whatever I'd be a good fit for! 
+- 💼 Looking for a role in Python, Vue, frontend Javascript, or whatever I'd be a good fit for! 
 - 🔭 I’m currently working on [Mealie](https://hay-kot.github.io/mealie/) A Self Hosted Recipe Manager built with Vue, Python, and Docker. 
 - 🌱 I’m currently learning C#, 
 - ⭐️ Im comfortable with Javascript, Python, and Vue
