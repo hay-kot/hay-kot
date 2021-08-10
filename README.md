@@ -14,7 +14,7 @@
 ## What I'm Up To
 - 💼 Looking for a role in Python, Vue, frontend Javascript, or whatever I'd be a good fit for! 
 - 🔭 I’m currently working on [Mealie](https://hay-kot.github.io/mealie/) A Self Hosted Recipe Manager built with Vue, Python, and Docker. 
-- 🌱 I’m currently learning C#, 
+- 🌱 I’m currently learning Go - [Playground Repo](https://github.com/hay-kot/GoPlayground), 
 - ⭐️ Im comfortable with Javascript, Python, and Vue
 
 <br>
