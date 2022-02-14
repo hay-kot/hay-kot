@@ -45,7 +45,7 @@
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
       width="40"
       height="40"
