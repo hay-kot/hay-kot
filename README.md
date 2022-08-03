@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [https://blog.hay-kot.dev](https://blog.hay-kot.dev)
+- 📝 I regularly write articles on [https://hay-kot.dev](https://hay-kot.dev)
 
 - 💬 Ask me about **Vue or Python**
 
