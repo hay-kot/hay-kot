@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://hay-kot.dev](https://hay-kot.dev)
 
-- 💬 Ask me about **Vue or Python**
+- 💬 Ask me about **Go, Python or Vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
