@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Mealie](https://github.com/hay-kot/mealie)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [https://hay-kot.dev](https://hay-kot.dev)
 
