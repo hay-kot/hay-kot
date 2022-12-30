@@ -12,13 +12,13 @@
     </a>    
 </p>
 
-- 🔭 I’m currently working on [Mealie](https://github.com/hay-kot/mealie)
+- 🔭 I’m currently working on [Mealie](https://github.com/hay-kot/mealie) and [Homebox](https://github.com/hay-kot/homebox)
 
 - 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [https://hay-kot.dev](https://hay-kot.dev)
 
-- 💬 Ask me about **Go, Python or Vue**
+- 💬 Ask me about **Go, Python, Vue or C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
